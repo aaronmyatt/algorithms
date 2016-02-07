@@ -46,3 +46,5 @@ depth=2
 
 ## Chapter 1.1: `Basic Programming Model`
 *Essentially a refresher/introdction to Java. Useful!*
+A tidbit for thinking about functional programming: "a (void static) method is said to produce side effects (consume input (StdIn), 
+produce output (StdOut), change entries in an array or otherwise change the **state** of a system). 
